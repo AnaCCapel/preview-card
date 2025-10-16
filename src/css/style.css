@@ -1,0 +1,91 @@
+body {
+    color: var(--gray);
+    font-family: var(----font-one);
+}
+
+.container {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.cards {
+    display: flex;
+}
+
+.cards .card {
+    padding: 60px 42px;
+    max-width: 300px;
+    max-height: 100%;
+}
+
+.cards .card img {
+    margin-bottom: 20px;
+}
+
+.cards .card h2 {
+    font-weight: 400;
+    font-size: 2.2rem;
+    margin: 13px 0 22px 0;
+    text-transform: uppercase;
+    font-family: var(--font-two);
+}
+
+.cards .card p {
+    font-weight: 300;
+    line-height: 1.6rem;
+    margin-bottom: 80px;
+    color: var(--transparent);
+}
+
+.cards .card a {
+    transition: 0.3s;
+    padding: 13px 30px;
+    border-radius: 30px;
+    background-color: var(--gray);
+}
+
+.cards .sedan a {
+    color: var(--color-sedan);
+}
+
+.cards .suv a {
+    color: var(--color-suv);
+}
+
+.cards .luxury a {
+    color: var(--color-luxury);
+}
+
+.cards a:hover {
+    color: var(--gray);
+    border: 1px solid var(--gray);
+}
+
+.cards .sedan a:hover {
+    background-color: var(--color-sedan);
+}
+
+.cards .suv a:hover {
+    background-color: var(--color-suv);
+}
+
+.cards .luxury a:hover {
+    background-color: var(--color-luxury);
+}
+
+
+.cards .sedan {
+    border-radius: 8px 0 0 8px;
+    background-color: var(--color-sedan);
+}
+
+.cards .suv {
+    background-color: var(--color-suv);
+}
+
+.cards .luxury {
+    border-radius: 0 8px 8px 0;
+    background-color: var(--color-luxury);
+}
