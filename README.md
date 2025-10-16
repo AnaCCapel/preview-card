@@ -6,14 +6,19 @@ This project was developed as part of a **Frontend Mentor challenge**, focused o
 
 ### 🖥️ Desktop Design
 
+<img width="480" height="228" alt="preview-card-desktop" src="https://github.com/user-attachments/assets/ef32942d-3c4e-4bb9-951f-ee50f62524ce" />
+
 <br>
 
 ### 🖱️ Active State
+
+<img width="480" height="228" alt="preview-card-ativo" src="https://github.com/user-attachments/assets/ca55006f-3c80-42aa-85e2-ea145d7530aa" />
 
 <br>
 
 ### 📱 Mobile Design  
 
+<img width="360" height="678" alt="preview-card-mobile" src="https://github.com/user-attachments/assets/ee8eb7d0-8d4a-4041-a2b3-e35a1c2745d9" />
 
 <br>
 <br>
